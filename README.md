@@ -1,4 +1,6 @@
 # UT-Austin-Econ-Dept-Beamer-Template
+by Zhenning Zhao at UT Austin
+
 This beamer template is built based on heedonggoh's project (link: https://github.com/heedonggoh/UTBeamerTemplate). Changes were made to adjust for the economics department.
 
 User’s guide:
@@ -9,5 +11,3 @@ User’s guide:
 4. Work best with VS code
 
 This template is colored based on UT Brand Guide (http://www.utexas.edu/brand-guidelines).
-
-
