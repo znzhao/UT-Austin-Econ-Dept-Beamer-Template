@@ -11,3 +11,7 @@ User’s guide:
 4. Work best with VS code
 
 This template is colored based on UT Brand Guide (http://www.utexas.edu/brand-guidelines).
+
+Update History:
+
+- 2020/7/29: update the package for citation (Beamer doesn't work with natbib, use cite package instead)

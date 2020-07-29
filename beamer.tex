@@ -17,7 +17,13 @@
 \usepackage{hyperref}
 \usepackage{animate}
 \usepackage{xcolor}
-%\usepackage{biblatex}\bibliography{ref}
+\usepackage{colortbl}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{booktabs}
+% Reference
+\usepackage{cite}
+
 \renewcommand*{\thesubfigure}{}
 \setbeamercolor*{enumerate item}{fg=black}
 \setbeamercolor*{enumerate subitem}{fg=black}
@@ -50,7 +56,7 @@
   \end{beamercolorbox}%
   \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
     \usebeamerfont{title in head/foot}
-    \textbf{\ConferenceName} %location
+    \textbf{\ConferenceName} location
   \end{beamercolorbox}%
   \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
     \usebeamerfont{date in head/foot}
